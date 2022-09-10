@@ -1,1 +1,1 @@
-gcc -fopenmp -O2 -o for for.c; ./for 10
+gcc -fopenmp -O2 -o for for.c; ./for 15
